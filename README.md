@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 ![](https://badge42.herokuapp.com/api/stats/yootaki?cursus=42cursus)
 
 <!--
